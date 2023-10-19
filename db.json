@@ -6,14 +6,12 @@
       "day": "20:e September klockan 15:00",
       "reminder": true
     },
-
     {
       "id": 2,
       "text": "Möte på skolan",
       "day": "25:e September klockan 16:00",
       "reminder": true
     },
-
     {
       "id": 3,
       "text": "Tid hos tandläkaren",
